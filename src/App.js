@@ -4,6 +4,18 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import './App.css';
 import data from './events.json';
 
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+         
+            { data.map(function(people){
+                return <li>{people.id} - {people.name}</li>
+             })}
+
+
+
+
 const Index = () => <h2>Home</h2>;
 const One = () => <h2>One</h2>;
 const Two = () => <h2>Two</h2>;
