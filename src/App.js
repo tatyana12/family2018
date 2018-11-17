@@ -12,7 +12,7 @@ class App extends Component {
             { data.map(function(people){
                 return <li>{people.id} - {people.name}</li>
              })}
-              }
+               }}}
 
 
 
