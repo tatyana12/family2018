@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
+import React, { Component } from 'react';
 import './App.css';
 import data from './events.json';
 
