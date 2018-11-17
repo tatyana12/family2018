@@ -1,5 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+import data from './events.json';
 
 const Index = () => <h2>Home</h2>;
 const One = () => <h2>One</h2>;
