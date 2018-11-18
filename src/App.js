@@ -6,7 +6,7 @@ import data from './events.json';
 import One from "./One";
 import Two from "./Two";
 import Three from "./Three";
-//import Four from "./Four";
+import Four from "./Four";
 //import Index from "./Home";
 
 const Index = () => <h2>Home</h2>;
