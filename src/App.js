@@ -5,7 +5,7 @@ import './App.css';
 import data from './events.json';
 import One from "./One";
 import Two from "./Two";
-//import Index from "./Home";
+import Index from "./Home";
 
 //const Index = () => <h2>Home</h2>;
 // const One = () => <h2>One</h2>;
