@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import './App.css';
 import data from './events.json';
-
+import One from "./One";
 const Index = () => <h2>Home</h2>;
-const One = () => <h2>One</h2>;
+// const One = () => <h2>One</h2>;
 const Two = () => <h2>Two</h2>;
 const Three = () => <h2>Three</h2>;
 const Four = () => <h2>Four</h2>;
