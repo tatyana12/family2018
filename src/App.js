@@ -5,13 +5,15 @@ import './App.css';
 import data from './events.json';
 import One from "./One";
 import Two from "./Two";
+import Three from "./Three";
+import Four from "./Four";
 //import Index from "./Home";
 
 const Index = () => <h2>Home</h2>;
 // const One = () => <h2>One</h2>;
 //const Two = () => <h2>Two</h2>;
-const Three = () => <h2>Three</h2>;
-const Four = () => <h2>Four</h2>;
+//const Three = () => <h2>Three</h2>;
+//const Four = () => <h2>Four</h2>;
 const Five = () => <h2>Five</h2>;
 const Six = () => <h2>Six</h2>;
 const Seven = () => <h2>Seven</h2>;
