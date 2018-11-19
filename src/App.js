@@ -30,6 +30,7 @@ const Index = () => <h2>Home</h2>;
 const AppRouter = () => (
   <Router>
     <div>
+        <Link to="/">Home</Link>
       <nav>
         <ol>
           <li>
