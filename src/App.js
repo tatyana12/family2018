@@ -85,3 +85,34 @@ const AppRouter = () => (
 
 export default AppRouter;
 
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+
+            { data.map(function(people){
+                return <li>{people.id} - {people.name}</li>
+             }
+
+
+
+              )}
+
+        <header className="App-header">
+
+          <a
+            className="App-link"
+            href="https://react-file1.herokuapp.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ABC Seminar
+          </a>
+        </header>
+      </div>
+    );
+  }
+}
+
+export default App;
+
