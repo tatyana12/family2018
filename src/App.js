@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import  { Link } from ‘react-router-dom’;
+//import  { Link } from ‘react-router-dom’;
 import './App.css';
 import data from './events.json';
 import One from "./One";
