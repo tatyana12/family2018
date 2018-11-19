@@ -34,12 +34,7 @@ const AppRouter = () => (
       <nav>
        <ol>
          <li>
-           <Link to="/one/">ReactJS vs Angular
-              <Link to="/one">
-                  <button type="button">
-                       React
-                  </button>
-           </Link>
+           <Link to="/one/">ReactJS vs Angular</Link>
          </li>
           <li>
             <Link to="/two/">Advantages of Node</Link>
