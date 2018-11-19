@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-
+import  { Link } from ‘react-router-dom’;
 import './App.css';
 import data from './events.json';
 import One from "./One";
@@ -34,7 +34,12 @@ const AppRouter = () => (
       <nav>
        <ol>
          <li>
-           <Link to="/one/">ReactJS vs Angular</Link>
+           <Link to="/one/">ReactJS vs Angular
+              <Link to="/one">
+                  <button type="button">
+                       React
+                  </button>
+           </Link>
          </li>
           <li>
             <Link to="/two/">Advantages of Node</Link>
