@@ -36,7 +36,7 @@ const AppRouter = () => (
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/one/">One</Link>
+            <Link to="/one/">ReactJS vs Angular</Link>
           </li>
           <li>
             <Link to="/two/">Two</Link>
