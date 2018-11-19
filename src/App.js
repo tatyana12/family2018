@@ -31,7 +31,7 @@ const AppRouter = () => (
   <Router>
     <div>
       <nav>
-        <ul>
+        <ol>
           <li>
             <Link to="/">Home</Link>
           </li>
@@ -65,7 +65,7 @@ const AppRouter = () => (
          <li>
             <Link to="/ten/">Ten</Link>
           </li>
-        </ul>
+        </ol>
       </nav>
 
       <Route path="/" exact component={Index} />
