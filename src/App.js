@@ -30,12 +30,9 @@ const Index = () => <h2>Home</h2>;
 const AppRouter = () => (
   <Router>
     <div>
-        <Link to="/">Home</Link>
+        <center><Link to="/">Events summary information</Link></center>
       <nav>
         <ol>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
           <li>
             <Link to="/one/">ReactJS vs Angular</Link>
           </li>
