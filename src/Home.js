@@ -13,8 +13,8 @@ class Home extends Component {
                                                 if (people.id === 'home') {
                                                         return (
                                                                 <ul>
-                  <li>Name: {people.id}</li>
-                  <li>Presenter: {people.name}</li>
+                  <li>Id: {people.id}</li>
+                  <li>Name: {people.name}</li>
                  
                 </ul>
                                                         )
