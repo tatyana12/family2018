@@ -26,7 +26,7 @@ class Home extends Component {
         }
 }
 
-export default One;
+export default Home;
 
 class App extends Component {
   render() {
