@@ -61,7 +61,7 @@ const AppRouter = () => (
             <Link to="/nine/">JavaScript Interview</Link>
           </li>
          <li>
-            <Link to="/ten/">hy Node JS?</Link>
+            <Link to="/ten/">Why Node JS?</Link>
           </li>
         </ol>
       </nav>
