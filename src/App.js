@@ -37,31 +37,31 @@ const AppRouter = () => (
             <Link to="/one/">ReactJS vs Angular</Link>
           </li>
           <li>
-            <Link to="/two/">Two</Link>
+            <Link to="/two/">Advantages of Node</Link>
           </li>
           <li>
-            <Link to="/three/">Three</Link>
+            <Link to="/three/">Will Vue JS substitute React JS?</Link>
           </li>
           <li>
-            <Link to="/four/">Four</Link>
+            <Link to="/four/">Choosing the right JS Framework"</Link>
           </li>
           <li>
-            <Link to="/five/">Five</Link>
+            <Link to="/five/">Right approach to Node JS</Link>
           </li>
           <li>
-            <Link to="/six/">Six</Link>
+            <Link to="/six/">We are all about JavaScript</Link>
           </li>
          <li>
-            <Link to="/seven/">Seven</Link>
+            <Link to="/seven/">Differences between JavaScript and EcmaScript</Link>
           </li>
          <li>
-            <Link to="/eight/">Eight</Link>
+            <Link to="/eight/">JavaScript Interview</Link>
           </li>
          <li>
-            <Link to="/nine/">Nine</Link>
+            <Link to="/nine/">JavaScript Interview</Link>
           </li>
          <li>
-            <Link to="/ten/">Ten</Link>
+            <Link to="/ten/">hy Node JS?</Link>
           </li>
         </ol>
       </nav>
