@@ -31,7 +31,7 @@
     transform: rotate(360deg);
   }
 
-.btn{
+.button{
 float:left;
 width:auto;
 height:30px;
@@ -45,7 +45,7 @@ padding:0 20px;
 border-radius:3px;
 }
 
-.btn:hover{
+.button:hover{
  cursor:pointer;
 }
 
