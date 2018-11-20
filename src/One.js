@@ -17,7 +17,9 @@ class One extends Component {
                   <li>Presenter: {people.presenter}</li>
                   <li>Room: {people.room}</li>
                   <li>Sumary: {people.summary}</li>
-                  
+                  <li>Date: {people.date}</li>
+                  <li>Time: {people.time}</li>
+
                 </ul>
 							)
 						}
