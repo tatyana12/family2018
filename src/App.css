@@ -29,4 +29,23 @@
   to {
     transform: rotate(360deg);
   }
+
+.btn{
+float:left;
+width:auto;
+height:30px;
+display:block;
+border:1px solid #ff6600;
+background:#00ff00;
+color:#000;
+line-height:30px;
+text-align:center;
+padding:0 20px;
+border-radius:3px;
+}
+
+.btn:hover{
+ cursor:pointer;
+}
+
 }
