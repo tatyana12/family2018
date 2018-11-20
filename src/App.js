@@ -13,7 +13,7 @@ import Seven from "./Seven";
 import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
-import Index from "./Home";
+//import Index from "./Home";
 
 const Index = () => <h2></h2>;
 //const Index = () => <h2>Home</h2>;
