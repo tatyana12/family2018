@@ -31,7 +31,7 @@
     transform: rotate(360deg);
   }
 
-.button{
+button{
 float:left;
 width:auto;
 height:30px;
