@@ -51,13 +51,29 @@ const AppRouter = () => (
            </Link>
           </li>
           <li>
-            <Link to="/three/">Will Vue JS substitute React JS?</Link>
+            <Link to="/three/">
+                <button type="button">
+                 Will Vue JS substitute React JS?
+              </button>
+
+          </Link>
           </li>
           <li>
-            <Link to="/four/">Choosing the right JS Framework</Link>
+            <Link to="/four/">
+                     <button type="button">
+                 Choosing the right JS Framework
+              </button>
+            </Link>
           </li>
+
           <li>
-            <Link to="/five/">Right approach to Node JS</Link>
+            <Link to="/five/">
+                       <button type="button">
+                       Right approach to Node JS
+              </button>
+
+
+           </Link>
           </li>
           <li>
             <Link to="/six/">We are all about JavaScript</Link>
