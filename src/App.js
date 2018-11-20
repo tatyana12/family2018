@@ -76,13 +76,33 @@ const AppRouter = () => (
            </Link>
           </li>
           <li>
-            <Link to="/six/">We are all about JavaScript</Link>
+             <Link to="/six/">
+
+               <button type="button">
+               We are all about JavaScript             
+              </button>
+
+          </Link>
+          </li>
+
+         <li>
+            <Link to="/seven/">
+             <button type="button">
+               Differences between JavaScript and EcmaScript
+              </button>
+
+
+         </Link>
           </li>
          <li>
-            <Link to="/seven/">Differences between JavaScript and EcmaScript</Link>
-          </li>
-         <li>
-            <Link to="/eight/">JavaScript Interview</Link>
+
+            <Link to="/eight/">
+               <button type="button">
+               JavaScript Interview
+              </button>
+
+
+          </Link>
           </li>
          <li>
             <Link to="/nine/">JavaScript Interview</Link>
