@@ -36,7 +36,7 @@ const AppRouter = () => (
        <ol>
          <li>
            <Link to="/one/">
-              <button type="button className="button">
+              <button type="button" className="button">
                ReactJS vs Angula
               </button>
           
