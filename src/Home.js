@@ -1,4 +1,4 @@
-mport React, { Component } from 'react';
+import React, { Component } from 'react';
 
 import data from './events.json';
 
@@ -13,8 +13,8 @@ class Home extends Component {
                                                 if (people.id === 'home') {
                                                         return (
                                                                 <ul>
-                  <li>Name: {people.id}</li>
-                  <li>Presenter: {people.name}</li>
+                  <li>Id: {people.id}</li>
+                  <li>Name: {people.name}</li>
                  
                 </ul>
                                                         )
@@ -26,6 +26,36 @@ class Home extends Component {
         }
 }
 
-export default One;
+export default Home;
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+
+            { data.map(function(people){
+                return <li>{people.id} - {people.name}</li>
+             }
+
+
+
+              )}
+
+        <header className="App-header">
+
+          <a
+            className="App-link"
+            href="https://react-file1.herokuapp.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ABC Seminar
+          </a>
+        </header>
+      </div>
+    );
+  }
+}
+
 
 

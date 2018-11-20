@@ -13,9 +13,13 @@ import Seven from "./Seven";
 import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
-//import Index from "./Home";
+import Index from "./Home";
 
+<<<<<<< HEAD
 const Index = () => <h2></h2>;
+=======
+//const Index = () => <h2>Home</h2>;
+>>>>>>> 84c79bfe39b0d8bf38fcafb1a9dbcaf339a55468
 // const One = () => <h2>One</h2>;
 //const Two = () => <h2>Two</h2>;
 //const Three = () => <h2>Three</h2>;
@@ -82,4 +86,35 @@ const AppRouter = () => (
 );
 
 export default AppRouter;
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+
+            { data.map(function(people){
+                return <li>{people.id} - {people.name}</li>
+             }
+
+
+
+              )}
+
+        <header className="App-header">
+
+          <a
+            className="App-link"
+            href="https://react-file1.herokuapp.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ABC Seminar
+          </a>
+        </header>
+      </div>
+    );
+  }
+}
+
+
 
