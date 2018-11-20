@@ -105,10 +105,23 @@ const AppRouter = () => (
           </Link>
           </li>
          <li>
-            <Link to="/nine/">JavaScript Interview</Link>
+            <Link to="/nine/">
+
+                 <button type="button">
+                 Vue, React, or Angular?
+              </button>
+
+
+
+         </Link>
           </li>
          <li>
-            <Link to="/ten/">Why Node JS?</Link>
+            <Link to="/ten/">
+              <button type="button">
+                  Why Node JS?
+              </button>
+
+          </Link>
           </li>
         </ol>
       </nav>
