@@ -50,7 +50,7 @@ const AppRouter = () => (
          </li>
           <li>
             <Link to="/two/">
-              <button type="button">
+              <button type="button"  className="button" >
                Advantages of Node
               </button>
             
@@ -58,7 +58,7 @@ const AppRouter = () => (
           </li>
           <li>
             <Link to="/three/">
-                <button type="button">
+                <button type="button"  className="button">
                  Will Vue JS substitute React JS?
               </button>
 
@@ -66,7 +66,7 @@ const AppRouter = () => (
           </li>
           <li>
             <Link to="/four/">
-                     <button type="button">
+                     <button type="button"  className="button">
                  Choosing the right JS Framework
               </button>
             </Link>
@@ -74,7 +74,7 @@ const AppRouter = () => (
 
           <li>
             <Link to="/five/">
-                       <button type="button">
+                       <button type="button"  className="button">
                        Right approach to Node JS
               </button>
 
@@ -93,7 +93,7 @@ const AppRouter = () => (
 
          <li>
             <Link to="/seven/">
-             <button type="button">
+             <button type="button"  className="button">
                Differences between JavaScript and EcmaScript
               </button>
 
@@ -103,7 +103,7 @@ const AppRouter = () => (
          <li>
 
             <Link to="/eight/">
-               <button type="button">
+               <button type="button"  className="button">
                JavaScript Interview
               </button>
 
@@ -113,7 +113,7 @@ const AppRouter = () => (
          <li>
             <Link to="/nine/">
 
-                 <button type="button">
+                 <button type="button"  className="button">
                  Vue, React, or Angular?
               </button>
 
@@ -123,7 +123,7 @@ const AppRouter = () => (
           </li>
          <li>
             <Link to="/ten/">
-              <button type="button">
+              <button type="button"  className="button">
                   Why Node JS?
               </button>
 
