@@ -8,8 +8,8 @@ class Home extends Component {
                         <div>
                                 {
                                         data.map(function(people) {
-                                                // assuming if you want people with
-                                                // id=1 only on page 1
+                                                
+                                 
                                                 if (people.id === 'home') {
                                                         return (
                                                                 <ul>
