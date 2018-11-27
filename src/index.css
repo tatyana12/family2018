@@ -18,11 +18,24 @@ code {
 }
 
 
+.button {
+  text-align: center;
+  border: none;
+  border-radius: 15px;
+  background-color: #1f7edc;
+  color: yellow;
+  cursor: pointer;
+  margin: 10px;
+  width: 44px;
+  height: 54px;
+}
 
+.button:hover {
+  background-color: #30567b;
+  color: yellow;
+}
 
-
-
-
-
-
+.button:focus {
+  outline: none;
+}
 
