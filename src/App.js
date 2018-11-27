@@ -16,17 +16,7 @@ import Ten from "./Ten";
 //import Index from "./Home";
 
 const Index = () => <h2></h2>;
-//const Index = () => <h2>Home</h2>;
-// const One = () => <h2>One</h2>;
-//const Two = () => <h2>Two</h2>;
-//const Three = () => <h2>Three</h2>;
-//const Four = () => <h2>Four</h2>;
-//const Five = () => <h2>Five</h2>;
-//const Six = () => <h2>Six</h2>;
-//const Seven = () => <h2>Seven</h2>;
-//const Eight = () => <h2>Eightt</h2>;
-//const Nine = () => <h2>Nine</h2>;
-//const Ten = () => <h2>Ten</h2>;
+
 
 const AppRouter = () => (
   <Router>
