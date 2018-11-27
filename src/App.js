@@ -14,6 +14,11 @@ import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
 
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+
 
 const Index = () => <h2></h2>;
 
