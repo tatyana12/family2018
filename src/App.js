@@ -84,7 +84,7 @@ const AppRouter = () => (
           <li>
              <Link to="/six/">
 
-               <button type="button">
+               <button  type="button"  className="button">
                We are all about JavaScript             
               </button>
 
