@@ -31,7 +31,13 @@ const Index = () => <h2></h2>;
 const AppRouter = () => (
   <Router>
     <div>
-        <center><Link to="/">Events  information</Link></center>
+        <center><Link to="/">
+
+             <button type="button" className="button">
+
+             Events  informatio</button>
+
+         </Link></center>
       <nav>
        <ol>
          <li>
