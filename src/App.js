@@ -159,14 +159,7 @@ class App extends Component {
 
         <header className="App-header">
 
-          <a
-            className="App-link"
-            href="https://react-file1.herokuapp.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            ABC Seminar
-          </a>
+          
         </header>
       </div>
     );
