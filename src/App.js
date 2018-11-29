@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-
+//import  { Link } from ‘react-router-dom’;
 import './App.css';
 import data from './events.json';
 import One from "./One";
@@ -13,15 +13,20 @@ import Seven from "./Seven";
 import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
-
-//<div class="row">
-  //<div class="column"></div>
-  //<div class="column"></div>
-//</div>
-
+//import Index from "./Home";
 
 const Index = () => <h2></h2>;
-
+//const Index = () => <h2>Home</h2>;
+// const One = () => <h2>One</h2>;
+//const Two = () => <h2>Two</h2>;
+//const Three = () => <h2>Three</h2>;
+//const Four = () => <h2>Four</h2>;
+//const Five = () => <h2>Five</h2>;
+//const Six = () => <h2>Six</h2>;
+//const Seven = () => <h2>Seven</h2>;
+//const Eight = () => <h2>Eightt</h2>;
+//const Nine = () => <h2>Nine</h2>;
+//const Ten = () => <h2>Ten</h2>;
 
 const AppRouter = () => (
   <Router>
@@ -33,6 +38,9 @@ const AppRouter = () => (
              Events  informatio</button>
 
          </Link></center>
+
+     <div className="row">
+     <div className="column">
       <nav>
        <ol>
          <li>
@@ -40,7 +48,7 @@ const AppRouter = () => (
               <button type="button" className="button">
                ReactJS vs Angula
               </button>
-          
+
          </Link>
          </li>
           <li>
@@ -48,7 +56,7 @@ const AppRouter = () => (
               <button type="button"  className="button" >
                Advantages of Node
               </button>
-            
+
            </Link>
           </li>
           <li>
@@ -80,7 +88,7 @@ const AppRouter = () => (
              <Link to="/six/">
 
                <button  type="button"  className="button">
-               We are all about JavaScript             
+               We are all about JavaScript
               </button>
 
           </Link>
@@ -126,7 +134,8 @@ const AppRouter = () => (
           </li>
         </ol>
       </nav>
-
+      </div>
+      <div className="column">
       <Route path="/" exact component={Index} />
       <Route path="/one/" component={One} />
       <Route path="/two/" component={Two} />
@@ -138,6 +147,10 @@ const AppRouter = () => (
       <Route path="/eight/" component={Eight} />
       <Route path="/nine/" component={Nine} />
       <Route path="/ten/" component={Ten} />
+      </div>
+      </div>
+
+
     </div>
   </Router>
 );
@@ -159,12 +172,18 @@ class App extends Component {
 
         <header className="App-header">
 
-          
+          <a
+            className="App-link"
+            href="https://react-file1.herokuapp.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ABC Seminar
+          </a>
         </header>
       </div>
     );
   }
 }
-
 
 
