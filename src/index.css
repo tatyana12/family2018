@@ -44,7 +44,7 @@ code {
 .column {
     float: left;
     padding: 10px;
-    height: 500px; /* Should be removed. Only for demonstration */
+   // height: 500px; /* Should be removed. Only for demonstration */
 }
 
 .left {
