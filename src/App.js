@@ -41,50 +41,46 @@ const AppRouter = () => (
 
      <div className="row">
      <div className="column">
-      <nav>
-       <ol>
-         <li>
+      <div>
            <Link to="/one/">
               <button type="button" className="button">
                ReactJS vs Angula
               </button>
 
          </Link>
-         </li>
-          <li>
+      </div>
+      <div>
             <Link to="/two/">
               <button type="button"  className="button" >
                Advantages of Node
               </button>
 
            </Link>
-          </li>
-          <li>
+      </div>
+      <div>
             <Link to="/three/">
                 <button type="button"  className="button">
                  Will Vue JS substitute React JS?
               </button>
 
           </Link>
-          </li>
-          <li>
+      </div>
+      <div>
             <Link to="/four/">
                      <button type="button"  className="button">
                  Choosing the right JS Framework
               </button>
             </Link>
-          </li>
+      </div>
 
-          <li>
+      <div>
             <Link to="/five/">
                        <button type="button"  className="button">
                        Right approach to Node JS
               </button>
-
-
            </Link>
-          </li>
-          <li>
+      </div>
+      <div>
              <Link to="/six/">
 
                <button  type="button"  className="button">
@@ -92,9 +88,9 @@ const AppRouter = () => (
               </button>
 
           </Link>
-          </li>
+      </div>
 
-         <li>
+      <div>
             <Link to="/seven/">
              <button type="button"  className="button">
                Differences between JavaScript and EcmaScript
@@ -102,8 +98,8 @@ const AppRouter = () => (
 
 
          </Link>
-          </li>
-         <li>
+      </div>
+      <div>
 
             <Link to="/eight/">
                <button type="button"  className="button">
@@ -112,8 +108,8 @@ const AppRouter = () => (
 
 
           </Link>
-          </li>
-         <li>
+      </div>
+      <div>
             <Link to="/nine/">
 
                  <button type="button"  className="button">
@@ -123,30 +119,49 @@ const AppRouter = () => (
 
 
          </Link>
-          </li>
-         <li>
+      </div>
+      <div>
             <Link to="/ten/">
               <button type="button"  className="button">
                   Why Node JS?
               </button>
 
           </Link>
-          </li>
-        </ol>
-      </nav>
+      </div>
       </div>
       <div className="column">
-      <Route path="/" exact component={Index} />
-      <Route path="/one/" component={One} />
-      <Route path="/two/" component={Two} />
-      <Route path="/three/" component={Three} />
-      <Route path="/four/" component={Four} />
-      <Route path="/five/" component={Five} />
-      <Route path="/six/" component={Six} />
-      <Route path="/seven/" component={Seven} />
-      <Route path="/eight/" component={Eight} />
-      <Route path="/nine/" component={Nine} />
-      <Route path="/ten/" component={Ten} />
+        <Route path="/" exact component={Index} />
+          <div className="content">
+            <Route path="/one/" component={One} />
+          </div>
+          <div className="content">
+            <Route path="/two/" component={Two} />
+          </div>
+          <div className="content">
+            <Route path="/three/" component={Three} />
+          </div>
+          <div className="content">
+            <Route path="/four/" component={Four} />
+          </div>
+          <div className="content">
+            <Route path="/five/" component={Five} />
+          </div>
+          <div className="content">
+            <Route path="/six/" component={Six} />
+          </div>
+          <div className="content">
+            <Route path="/seven/" component={Seven} />
+          </div>
+          <div className="content">
+            <Route path="/eight/" component={Eight} />
+          </div>
+          <div className="content">
+            <Route path="/nine/" component={Nine} />
+          </div>
+          <div className="content">
+            <Route path="/ten/" component={Ten} />
+          </div>
+
       </div>
       </div>
 
