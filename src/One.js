@@ -15,7 +15,7 @@ class One extends Component {
 								<ul>
                   <li>Name: {people.name}</li>
                   <li>Relationship: {people.relationship}</li>
-                  <li>Room: {people.room}</li>
+                  <li>Like/hate: {people.Like/hate}</li>
                   <li>Sumary: {people.summary}</li>
                   <li>Date: {people.date}</li>
                   <li>Time: {people.time}</li>
