@@ -35,7 +35,7 @@ const AppRouter = () => (
 
              <button type="button" className="button">
 
-             Families  informatio</button>
+             Families  information</button>
 
          </Link></center>
 
