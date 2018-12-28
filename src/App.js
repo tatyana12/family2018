@@ -35,7 +35,7 @@ const AppRouter = () => (
 
              <button type="button" className="button">
 
-             Events  informatio</button>
+             Families  informatio</button>
 
          </Link></center>
 
@@ -44,7 +44,7 @@ const AppRouter = () => (
       <div>
            <Link to="/one/">
               <button type="button" className="button">
-               ReactJS vs Angula
+               Tatyana
               </button>
 
          </Link>
@@ -52,7 +52,7 @@ const AppRouter = () => (
       <div>
             <Link to="/two/">
               <button type="button"  className="button" >
-               Advantages of Node
+               Mikl
               </button>
 
            </Link>
@@ -60,7 +60,7 @@ const AppRouter = () => (
       <div>
             <Link to="/three/">
                 <button type="button"  className="button">
-                 Will Vue JS substitute React JS?
+                 Oleg
               </button>
 
           </Link>
@@ -68,7 +68,7 @@ const AppRouter = () => (
       <div>
             <Link to="/four/">
                      <button type="button"  className="button">
-                 Choosing the right JS Framework
+                 Antonina
               </button>
             </Link>
       </div>
@@ -76,7 +76,7 @@ const AppRouter = () => (
       <div>
             <Link to="/five/">
                        <button type="button"  className="button">
-                       Right approach to Node JS
+                       Diana
               </button>
            </Link>
       </div>
@@ -84,7 +84,7 @@ const AppRouter = () => (
              <Link to="/six/">
 
                <button  type="button"  className="button">
-               We are all about JavaScript
+               Dennis
               </button>
 
           </Link>
@@ -93,7 +93,7 @@ const AppRouter = () => (
       <div>
             <Link to="/seven/">
              <button type="button"  className="button">
-               Differences between JavaScript and EcmaScript
+               Maria
               </button>
 
 
@@ -103,7 +103,7 @@ const AppRouter = () => (
 
             <Link to="/eight/">
                <button type="button"  className="button">
-               JavaScript Interview
+               Edvard
               </button>
 
 
@@ -113,21 +113,14 @@ const AppRouter = () => (
             <Link to="/nine/">
 
                  <button type="button"  className="button">
-                 Vue, React, or Angular?
+                 Natali
               </button>
 
 
 
          </Link>
       </div>
-      <div>
-            <Link to="/ten/">
-              <button type="button"  className="button">
-                  Why Node JS?
-              </button>
-
-          </Link>
-      </div>
+     
       </div>
       <div className="column">
         <Route path="/" exact component={Index} />
