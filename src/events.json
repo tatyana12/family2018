@@ -3,7 +3,7 @@
 {"id": 3, "name": "Antonina","presenter": "Arnold Suarez","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"}, 
 {"id": 4, "name": "Diana","presenter": "Alicia Mardston","summary": "Comparing features of different JS Frameworks","room": "C244","date": "Oct 17","time": "10AM"},
 {"id": 5, "name": "Dennis","presenter": "Johnathan Burdstein","summary": "Starting to use Node JS in your work place","room": "C235","date": "Oct 17","time": "9AM"}, 
-{"id": 6, "name": "Maria": "Joseph Abrantes","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
+{"id": 6, "name": "Maria", "presenter":: "Joseph Abrantes","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
 {"id": 7, "name": "Edvard","presenter": "Margareth Tompson","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
 {"id": 8, "name": "Natali","presenter": "Donna Madison","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
 {"id": 9, "name": "Vue, React, or Angular?","presenter": "Augusto Lopes","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}, 
