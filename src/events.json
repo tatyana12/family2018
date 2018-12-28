@@ -1,4 +1,4 @@
-[{"id": 1,"name": "Tatyana","presenter": "Grandmother","summary": "Novosibirsk,Russia","room": "Swim/swim with Jellyfish","date": "Jun 14,1953","time": "9AM"}, 
+[{"id": 1,"name": "Tatyana","relationship": "Grandmother","summary": "Novosibirsk,Russia","room": "Swim/swim with Jellyfish","date": "Jun 14,1953","time": "9AM"}, 
 {"id": 2, "name": "Mikl","presenter": "Son","Summary": "The main advantage of Node JS","room": "C244","date": "Oct 17","time": "10AM"}, 
 {"id": 3, "name": "Oleg","presenter": "Son","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"}, 
 {"id": 4, "name": "Antonina","presenter": "Daughter-in-law","summary": "Comparing features of different JS Frameworks","room": "C244","date": "Oct 17","time": "10AM"},
