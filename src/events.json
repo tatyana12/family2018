@@ -5,5 +5,5 @@
 {"id": 5, "name": "Diana","presenter": "Daughter-in-law","summary": "Starting to use Node JS in your work place","room": "C235","date": "Oct 17","time": "9AM"}, 
 {"id": 6, "name": "Dennis", "presenter": "Grandson","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
 {"id": 7, "name": "Maria","presenter": "Granddaughter","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
-{"id": 8, "name": "Edvardi","presenter": "Granddaughter","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
-{"id": 9, "name": "Natali","presenter": "Grandson","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}]
+{"id": 8, "name": "Edvardi","presenter": "Granddson","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
+{"id": 9, "name": "Natali","presenter": "Granddaughter","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}]
