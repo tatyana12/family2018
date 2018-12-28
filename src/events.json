@@ -6,5 +6,4 @@
 {"id": 6, "name": "Dennis", "presenter": "Joseph Abrantes","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
 {"id": 7, "name": "Maria","presenter": "Margareth Tompson","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
 {"id": 8, "name": "Edvardi","presenter": "Donna Madison","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
-{"id": 9, "name": "Natali","presenter": "Augusto Lopes","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}, 
-{"id": 10, "name": "Why Node JS?","presenter": "Stephen Lartov","summary": "Why XYZ Toys Company decided to move to Node JS","room": "C234","date": "Oct 17","time": "2PM"}]
+{"id": 9, "name": "Natali","presenter": "Augusto Lopes","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}]
