@@ -1,9 +1,9 @@
-[{"id": 1,"name": "Tatyana","presenter": "John Telovsky","summary": "Comparing features of ReactJS and Angular","room": "C234","date": "Oct 17","time": "9AM"}, 
-{"id": 2, "name": "Mikl","presenter": "Lucia Snaulter","summary": "The main advantage of Node JS","room": "C244","date": "Oct 17","time": "10AM"}, 
-{"id": 3, "name": "Oleg","presenter": "Arnold Suarez","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"}, 
-{"id": 4, "name": "Antonina","presenter": "Alicia Mardston","summary": "Comparing features of different JS Frameworks","room": "C244","date": "Oct 17","time": "10AM"},
-{"id": 5, "name": "Diana","presenter": "Johnathan Burdstein","summary": "Starting to use Node JS in your work place","room": "C235","date": "Oct 17","time": "9AM"}, 
-{"id": 6, "name": "Dennis", "presenter": "Joseph Abrantes","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
-{"id": 7, "name": "Maria","presenter": "Margareth Tompson","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
-{"id": 8, "name": "Edvardi","presenter": "Donna Madison","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
-{"id": 9, "name": "Natali","presenter": "Augusto Lopes","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}]
+[{"id": 1,"name": "Tatyana","presenter": "Russia","summary": "Comparing features of ReactJS and Angular","room": "C234","date": "Oct 17","time": "9AM"}, 
+{"id": 2, "name": "Mikl","presenter": "Russia","summary": "The main advantage of Node JS","room": "C244","date": "Oct 17","time": "10AM"}, 
+{"id": 3, "name": "Oleg","presenter": "Russia","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"}, 
+{"id": 4, "name": "Antonina","presenter": "Russia","summary": "Comparing features of different JS Frameworks","room": "C244","date": "Oct 17","time": "10AM"},
+{"id": 5, "name": "Diana","presenter": "Moldova","summary": "Starting to use Node JS in your work place","room": "C235","date": "Oct 17","time": "9AM"}, 
+{"id": 6, "name": "Dennis", "presenter": "America","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
+{"id": 7, "name": "Maria","presenter": "America","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
+{"id": 8, "name": "Edvardi","presenter": "America","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
+{"id": 9, "name": "Natali","presenter": "America","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}]
