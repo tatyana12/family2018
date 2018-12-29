@@ -1,9 +1,10 @@
-[{"id": 1,"name": "Tatyana","relationship": "Grandmother","birthinfo": "Novosibirsk,Russia","like": "Swim/swim with Jellyfish","date": "Jun 14,1953","time": "9AM"}, 
-{"id": 2, "name": "Mikl","presenter": "Son","Summary": "The main advantage of Node JS","room": "C244","date": "Oct 17","time": "10AM"}, 
-{"id": 3, "name": "Oleg","presenter": "Son","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"}, 
+[{"id": 1,"name": "Tatyana","relationship": "Grandmother","birthinfo": "Novosibirsk,Russia","like": "Swim/swim with Jellyfish","color": "red", "date": "Jun 14,1953","time": "9AM"},
+{"id": 2, "name": "Mikl","presenter": "Son","Summary": "The main advantage of Node JS","room": "C244","date": "Oct 17","time": "10AM"},
+{"id": 3, "name": "Oleg","presenter": "Son","summary": "Companies that decided to substitute React JS by Vue JS","room": "C234","date": "Oct 17","time": "11AM"},
 {"id": 4, "name": "Antonina","presenter": "Daughter-in-law","summary": "Comparing features of different JS Frameworks","room": "C244","date": "Oct 17","time": "10AM"},
-{"id": 5, "name": "Diana","presenter": "Daughter-in-law","summary": "Starting to use Node JS in your work place","room": "C235","date": "Oct 17","time": "9AM"}, 
-{"id": 6, "name": "Dennis", "presenter": "Grandson","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"}, 
+{"id": 5, "name": "Diana","presenter": "Daughter-in-law","summary": "Starting to use Node JS in your work place","room": "C235","date": "Oct 17","time": "9AM"},
+{"id": 6, "name": "Dennis", "presenter": "Grandson","summary": "When JavaScript became the number 1 choice at ABC Company","room": "C235","date": "Oct 17","time": "11AM"},
 {"id": 7, "name": "Maria","presenter": "Granddaughter","summary": "What is EcmaScript and the main differences to JavaScript","room": "C234","date": "Oct 17","time": "1PM"},
-{"id": 8, "name": "Edvardi","presenter": "Granddson","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"}, 
+{"id": 8, "name": "Edvardi","presenter": "Granddson","summary": "Some tips to nail the technical interview of JavaScript","room": "C235","date": "Oct 17","time": "1PM"},
 {"id": 9, "name": "Natali","presenter": "Granddaughter","summary": "Comparing features of Vue, React, and Angular","room": "C235","date": "Oct 17","time": "2PM"}]
+
