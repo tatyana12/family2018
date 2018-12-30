@@ -14,7 +14,7 @@ class One extends Component {
 							return (
 								<ul>
                   <li>Name: {people.name}</li>
-                  <li>Relationship: {people.relationship}</li>
+                  <li>Relationship: {people.presenter}</li>
                   <li>Like/hate: {people.like}</li>
                   <li>Favorite color: {people.color}</li>
                   <li>Birthplace: {people.birthinfo}</li>
