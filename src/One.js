@@ -19,7 +19,7 @@ class One extends Component {
                   <li>Favorite color: {people.color}</li>
                   <li>Birthday info: {people.birthinfo}</li>
                   Date: {people.date}
-                  Time: {people.time}<br></br>
+                  
 
                 </ul>
 							)
