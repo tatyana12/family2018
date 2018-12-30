@@ -18,7 +18,7 @@ class Eight extends Component {
                   <li>Room: {people.room}</li>
                   <li>Like/hate: {people.like}</li>
                   <li>Sumary: {people.summary}</li>
-                  <li>Date: {people.date}</li><br>
+                  <li>Date: {people.date}</li><br></br>
                   Time: {people.time}
                 </ul>
                                                         )
