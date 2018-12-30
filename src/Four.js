@@ -18,7 +18,7 @@ class Four extends Component {
                   <li>Like/hate: {people.room}</li>
                    <li>Favorite color: {people.color}</li>
                   <li>Birthday info: {people.summary}</li>
-                  <li>Date: {people.date}</li>
+                  Date: {people.date}
                  </ul>
                                                         )
                                                 }
