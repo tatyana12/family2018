@@ -18,7 +18,7 @@ class Two extends Component {
                   <li>Like/hate: {people.like}</li>
                   <li>Favorite color: {people.color}</li>
                   <li>Birthplace: {people.birthinfo}</li>
-                  Date: {people.date}
+                  Date: {people.date}<br></br>
                   Time: {people.time}
 
                 </ul>
