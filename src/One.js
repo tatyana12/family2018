@@ -17,9 +17,9 @@ class One extends Component {
                   <li>Relationship: {people.presenter}</li>
                   <li>Like/hate: {people.like}</li>
                   <li>Favorite color: {people.color}</li>
-                  <li>Birthplace: {people.birthinfo}</li>
-                  <li>Date: {people.date}</li>
-                  <li>Time: {people.time}</li>
+                  <li>Birthday info: {people.birthinfo}</li>
+                  Date: {people.date}
+                  Time: {people.time}<br></br>
 
                 </ul>
 							)

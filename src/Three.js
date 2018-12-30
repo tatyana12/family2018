@@ -18,7 +18,7 @@ class Three  extends Component {
                   <li>Room: {people.room}</li>
                   <li>Favorite color: {people.color}</li>
                   <li>Birthday info: {people.summary}</li>
-                     Date: {people.date}
+                     Date: {people.date}<br></br>
                      Time: {people.time}
                 </ul>
                                                         )
