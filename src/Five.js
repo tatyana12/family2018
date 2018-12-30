@@ -18,7 +18,7 @@ class Five  extends Component {
                   <li>Like/hate: {people.room}</li>
                    <li>Favorite color: {people.color}</li>
                   <li>Birhday info: {people.summary}</li>
-                  Date: {people.date}
+                  Date: {people.date}<br></br>
                   Time: {people.time}
                 </ul>
                                                         )
