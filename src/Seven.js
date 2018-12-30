@@ -14,11 +14,12 @@ class Seven extends Component {
                                                         return (
                                                                 <ul>
                   <li>Name: {people.name}</li>
-                  <li>Presenter: {people.presenter}</li>
+                  <li>Relationship: {people.presenter}</li>
                   <li>Room: {people.room}</li>
+                   <li>Favorite color: {people.color}</li>
                   <li>Sumary: {people.summary}</li>
                    <li>Date: {people.date}</li>
-                  <li>Time: {people.time}</li>
+                  Time: {people.time}<br></br>
                 </ul>
                                                         )
                                                 }
