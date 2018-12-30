@@ -15,7 +15,7 @@ class Eight extends Component {
                                                                 <ul>
                   <li>Name: {people.name}</li>
                   <li>Relationship: {people.presenter}</li>
-                  <li>Like/hate: {people.like}</li>
+                  <li>Like/hate: {people.room}</li>
                   <li>Birthday info: {people.summary}</li>
                   <li>Date: {people.date}</li>
                   Time: {people.time}<br></br>
