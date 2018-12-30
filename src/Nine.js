@@ -16,7 +16,7 @@ class Nine extends Component {
                   <li>Name: {people.name}</li>
                   <li>Relationship: {people.presenter}</li>
                   <li>Like/hate: {people.room}</li>
-                  <li>Favotite color: {people.summary}</li>
+                  <li>Birthday info: {people.summary}</li>
                   <li>Date: {people.date}</li>
                   Time: {people.time}<br></br>
                 </ul>
@@ -30,5 +30,4 @@ class Nine extends Component {
 }
 
 export default Nine;
-
 
