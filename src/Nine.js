@@ -14,9 +14,9 @@ class Nine extends Component {
                                                         return (
                                                                 <ul>
                   <li>Name: {people.name}</li>
-                  <li>Presenter: {people.presenter}</li>
-                  <li>Room: {people.room}</li>
-                  <li>Sumary: {people.summary}</li>
+                  <li>Relationship: {people.presenter}</li>
+                  <li>Like/hate: {people.room}</li>
+                  <li>Favotite color: {people.summary}</li>
                   <li>Date: {people.date}</li>
                   Time: {people.time}<br></br>
                 </ul>

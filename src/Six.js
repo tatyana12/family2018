@@ -17,7 +17,7 @@ class Six extends Component {
                   <li>Relationship: {people.presenter}</li>
                   <li>Like/hate: {people.room}</li>
                    <li>Favorite color: {people.color}</li>
-                  <li>Sumary: {people.summary}</li>
+                  <li>Birthday info: {people.summary}</li>
                   <li>Date: {people.date}</li>
                   Time: {people.time}<br></br>
                 </ul>
