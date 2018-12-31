@@ -1,10 +1,10 @@
-[{"id": 1,"name": "Tatyana","presenter": "Grandmother","birthinfo": "Novosibirsk, Russia","like": "Swim/swim with Jellyfish","color": "red","date":"Jun 14,1953","time": "9AM"}, 
-{"id": 2, "name": "Mikl","presenter": "Son","birthinfo": "Vologda,Russia","like": "Family/quarrels","color":"blue","date": "Sep 28,1975","time": "about 12AM"}, 
-{"id": 3, "name": "Oleg","presenter": "Son","summary": "Vologda,Russia","room": "Money/being sick","color": "black","date": "July 21,1982","time": "about 8PM"}, 
-{"id": 4, "name": "Antonina","presenter": "Daughter-in-law","summary": "Novosibirsk,Russia","room": "Reading/pain","color":"rainbow","date": "Febr 23,1980","time": "10AM"},
-{"id": 5, "name": "Diana","presenter": "Daughter-in-law","summary": "Kishinev,Moldova","room": "order/disorder","color":"white","date": "Jul 11,1981","time": "9AM"}, 
-{"id": 6, "name": "Dennis", "presenter": "Grandson","summary": "San Francisco,America","room": "Sport/bees","color":"yellow","date": "Apr20,2005","time": "7.57AM"}, 
-{"id": 7, "name": "Maria","presenter": "Granddaughter","summary": "Clovis,America","room": "Soccer/school","color":"yellow","date": "Aug 23,2006","time": "2PM"},
-{"id": 8, "name": "Edvardi","presenter": "Granddson","summary": "Sunnyvale,America","room": "Junk food/wake up early","color":"red","date": "May 5,2009","time": "10AM"}, 
-{"id": 9, "name": "Natali","presenter": "Granddaughter","summary": "Redwood City,America","room": "tea/ginger","color":"rainbow","date": "Sep29,2010","time": "3PM"}]
+[{"id": 1,"name": "Tatyana","presenter": "Grandmother","birthinfo": "Novosibirsk, Russia","like": "Swim/swim with Jellyfish","color": "red","date":"Jun 14, 1953","time": "9AM"}, 
+{"id": 2, "name": "Mikl","presenter": "Son","birthinfo": "Vologda, Russia","like": "Family/quarrels","color":"blue","date": "Sep 28, 1975","time": "about 12AM"}, 
+{"id": 3, "name": "Oleg","presenter": "Son","summary": "Vologda,Russia","room": "Money/being sick","color": "black","date": "July 21, 1982","time": "about 8PM"}, 
+{"id": 4, "name": "Antonina","presenter": "Daughter-in-law","summary": "Novosibirsk, Russia","room": "Reading/pain","color":"rainbow","date": "Febr 23, 1980","time": "10AM"},
+{"id": 5, "name": "Diana","presenter": "Daughter-in-law","summary": "Kishinev, Moldova","room": "order/disorder","color":"white","date": "Jul 11, 1981","time": "9AM"}, 
+{"id": 6, "name": "Dennis", "presenter": "Grandson","summary": "San Francisco, America","room": "Sport/bees","color":"yellow","date": "Apr20, 2005","time": "7.57AM"}, 
+{"id": 7, "name": "Maria","presenter": "Granddaughter","summary": "Clovis, America","room": "Soccer/school","color":"yellow","date": "Aug 23, 2006","time": "2PM"},
+{"id": 8, "name": "Edvardi","presenter": "Granddson","summary": "Sunnyvale, America","room": "Junk food/wake up early","color":"red","date": "May 5, 2009","time": "10AM"}, 
+{"id": 9, "name": "Natali","presenter": "Granddaughter","summary": "Redwood City, America","room": "tea/ginger","color":"rainbow","date": "Sep29, 2010","time": "3PM"}]
 
