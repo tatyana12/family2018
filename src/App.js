@@ -88,14 +88,14 @@ const AppRouter = () => (
       <div>
 
             <Link to="/eight/">
-               <img src={./e-s.jpg"}/>
+               <img src={"./e-s.jpg"}/>
 
           </Link>
       </div>
       <div>
             <Link to="/nine/">
 
-                 <img src={./n-s.jpg"}/> 
+                 <img src={"./n-s.jpg"}/> 
 
 
 
