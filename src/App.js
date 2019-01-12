@@ -42,7 +42,7 @@ const AppRouter = () => (
      <div className="row">
      <div className="column">
       <div>
-          Link to="/one/">
+          <Link to="/one/">
               <img src={"./T.-s.jpg"}/>
 
          </Link>
