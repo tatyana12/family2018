@@ -42,12 +42,11 @@ const AppRouter = () => (
      <div className="row">
      <div className="column">
       <div>
-           <Link to="/one/">
-              <button type="button" className="button">
-               Tatyana
-              </button>
+          Link to="/one/">
+              <img src={"./T.-s.jpg"}/>
 
          </Link>
+
       </div>
       <div>
             <Link to="/two/">
