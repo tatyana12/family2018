@@ -50,25 +50,19 @@ const AppRouter = () => (
       </div>
       <div>
             <Link to="/two/">
-              <button type="button"  className="button" >
-               Mikl
-              </button>
+              <img src={"./M1.jpg"}/>
 
            </Link>
       </div>
       <div>
             <Link to="/three/">
-                <button type="button"  className="button">
-                 Oleg
-              </button>
+                <img src={"./O.jpg"}/>
 
           </Link>
       </div>
       <div>
             <Link to="/four/">
-                     <button type="button"  className="button">
-                 Antonina
-              </button>
+                     <img src={"./T.-s.jpg"}/>
             </Link>
       </div>
 
