@@ -43,59 +43,59 @@ const AppRouter = () => (
      <div className="column">
       <div>
           <Link to="/one/">
-              <img src={"./T.-s.jpg"}/>
+              <img src={"/T.-s.jpg"}/>
 
          </Link>
 
       </div>
       <div>
             <Link to="/two/">
-              <img src={"./M3s.jpg"}/>
+              <img src={"/M3s.jpg"}/>
 
            </Link>
       </div>
       <div>
             <Link to="/three/">
-                <img src={"./O.jpg"}/>
+                <img src={"/O.jpg"}/>
 
           </Link>
       </div>
       <div>
             <Link to="/four/">
-                     <img src={"./a2s.jpg"}/>
+                     <img src={"/a2s.jpg"}/>
             </Link>
       </div>
 
       <div>
             <Link to="/five/">
-                    <img src={"./Ds3.jpg"}/>
+                    <img src={"/Ds3.jpg"}/>
            </Link>
       </div>
       <div>
              <Link to="/six/">
 
-                 <img src={"./den-s.png"}/>
+                 <img src={"/den-s.png"}/>
 
           </Link>
       </div>
 
       <div>
             <Link to="/seven/">
-                 <img src={"./m2s.jpg"}/>
+                 <img src={"/m2s.jpg"}/>
 
              </Link>
       </div>
       <div>
 
             <Link to="/eight/">
-               <img src={"./es2.jpg"}/>
+               <img src={"/es2.jpg"}/>
 
           </Link>
       </div>
       <div>
             <Link to="/nine/">
 
-                 <img src={"./ns2.jpg"}/> 
+                 <img src={"/ns2.jpg"}/> 
 
 
 
