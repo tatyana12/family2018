@@ -31,8 +31,26 @@
     transform: rotate(360deg);
   }
 
+}
 
+img {
+   -webkit-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -ms-transition: all 1s ease;
+   transition: all 1s ease;
+}
 
-
+img:hover {
+   -webkit-filter: brightness(70%);
+   filter: brightness(70%);
+   visibility: visible;
+    text-align:center;
+    vertical-align:middle;
+    height: 120%;
+    width: 120%;
+    top:auto;
+    
 
 }
+
