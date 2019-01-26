@@ -35,7 +35,7 @@ code {
 }
 
 .button:hover {
-  background-color: #30567b;
+  background-color: red;
   color: yellow;
 }
 
