@@ -26,6 +26,7 @@ code {
   border-radius: 15px;
   background-color:white;
   color: red;
+  font-weight: bold;
   cursor: pointer;
   margin: 10px;
   width: 244px;
