@@ -40,8 +40,8 @@ const AppRouter = () => (
 
          </Link></center>
          
-        <center> <body id="myBody">
-        <a href="#myBody">Make it dark</a></body></center>
+      <center><div class="shadowbox"><body id="myBody">
+        <a href="#myBody">Make it dark</a></body></div></center>
 
 
 
