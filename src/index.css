@@ -11,13 +11,15 @@ body {
    font-weight: bold;
    background-color: blue;
    link: white;
-   body:target { background-color:black; }
+   
 }
+
+ body:target { background-color:black; }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-     color: #ADADAD;
+     color: white;
      background-color: pink;
 }
 
