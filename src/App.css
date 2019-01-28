@@ -63,6 +63,6 @@ button {
 }
 
 
-body:target { background-color:black; }
+app:target { background-color:black; }
 
 
