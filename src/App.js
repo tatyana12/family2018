@@ -41,7 +41,7 @@ const AppRouter = () => (
          </Link></center>
          
          <div> <body id="myBody">
-        <a href="#myBody">Click</a></div>
+        <a href="#myBody">Click</a></body></div>
 
 
 
