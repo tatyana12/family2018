@@ -33,9 +33,10 @@ const AppRouter = () => (
     <div>
         <center><Link to="/">
 
-             <body id="myBody">
-               <a href="#myBody">Click</a>
-              </body>
+             <button type="button" className="button">
+
+             Familie's  information (2018)</button>
+
 
          </Link></center>
 
