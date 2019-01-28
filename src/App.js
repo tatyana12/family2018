@@ -39,6 +39,12 @@ const AppRouter = () => (
 
 
          </Link></center>
+         
+         <div> <body id="myBody">
+        <a href="#myBody">Click</a></div>
+
+
+
 
      <div className="row">
      <div className="column">
