@@ -10,6 +10,7 @@ body {
    color: yellow;
    font-weight: bold;
    background-color: blue;
+   link: white;
 }
 
 code {
@@ -69,3 +70,4 @@ code {
     height: 200px;
 }
 
+body:target { background-color:black; }
