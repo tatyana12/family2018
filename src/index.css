@@ -9,21 +9,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
    color: red;
    font-weight: bold;
-   background-color: darkgreen;
+   background-color: forestgreen;
    link: white;
    
 }
 
- body:target { background-color:white; }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-     color: white;
-     background-color: pink;
-}
-
-
+ 
 .button {
   text-align: center;
   border: none;
