@@ -35,7 +35,7 @@ const AppRouter = () => (
 
              <body id="myBody">
                <a href="#myBody">Click</a>
-
+              </body>
 
          </Link></center>
 
