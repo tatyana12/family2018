@@ -14,7 +14,7 @@ body {
    
 }
 
- body:target { background-color:black; }
+ body:target { background-color:white; }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
