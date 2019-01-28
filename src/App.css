@@ -63,3 +63,6 @@ button {
 }
 
 
+body:target { background-color:black; }
+
+
