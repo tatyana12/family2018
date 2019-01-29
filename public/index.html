@@ -22,17 +22,72 @@
     <title>React App</title>
 
     <script>
-    function myFunction()
-{   
-    var colors = ["green", "black","yellow","Blue","Orange"],
-    selectedColor = colors[Math.floor(Math.random()*colors.length)]
-    $("body").css("background-color", selectedColor);
-}
+     function black() {
+    	document.body.style.backgroundColor="black"
+    }
+
+    function blue() {
+    	document.body.style.backgroundColor="blue"
+    }
+
+    function fuchsia() {
+    	document.body.style.backgroundColor="fuchsia"
+    }
+
+    function green() {
+    	document.body.style.backgroundColor="green"
+    }
+
+    function orange() {
+    	document.body.style.backgroundColor="#c44000"
+    }
+
+    function purple() {
+    	document.body.style.backgroundColor="purple"
+    }
+
+    function red() {
+    	document.body.style.backgroundColor="red"
+    }
+
+    function oil() {
+    	document.body.style.backgroundColor="#808000"
+    }
+
+    function white() {
+    	document.body.style.backgroundColor="white"
+    }
+
+    function brown() {
+    	document.body.style.backgroundColor="brown"
+    }
+
+    function yellow() {
+    	document.body.style.backgroundColor="yellow"
+    }
+
+    function lgreen() {
+    	document.body.style.backgroundColor="#00ff00"
+    }
+
 </script>
 </head>
   <body>
-   <button type="button" 
-   onclick="myFunction()">Change Color</button>
+   <form>
+    	<input type="button" style="background-color:black" hover="background-color:#3e8e41" value="    " name="B1" onclick="black()" />
+    	<input type="button" style="background-color:blue" value="    " name="B2" onclick="blue()" />
+    	<input type="button" style="background-color:#ff00ff" value="    " name="B3" onclick="fuchsia()" />
+    	<input type="button" style="background-color:green" value="    " name="B4" onclick="green()" />
+    	<input type="button" style="background-color:#808000" value="    " name="B7" onclick="oil()" />
+    	<input type="button" style="background-color:purple" value="    " name="B5" onclick="purple()" />
+    	<input type="button" style="background-color:red" value="    " name="B6" onclick="red()" />
+    	<input type="button" style="background-color:#c44000" value="    " name="B8" onclick="orange()" />
+    	<input type="button" style="background-color:white" value="    " name="B9" onclick="white()" />
+    	<input type="button" style="background-color:brown" value="    " name="B10" onclick="brown()" />
+    	<input type="button" style="background-color:yellow" value="    " name="B11" onclick="yellow()" />
+    	<input type="button" style="background-color:#00ff00" value="    " name="B12" onclick="lgreen()" />
+    </form>
+
 
     <noscript>
       You need to enable JavaScript to run this app.
