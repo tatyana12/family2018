@@ -79,3 +79,8 @@ body:target { background-color:blue; }
   padding: 8px 12px;
   background-image: linear-gradient(80deg, #fff, #ddd 40%, #ccc);
 }
+
+
+.left-background {background-color:#ff0000; width:50%; height:100%; position:absolute; top:0; left: 0;}
+.right-background {background-color:#00ff00; width:50%; height:100%;position:absolute; top:0; left: 50%;}
+.content {position:relative; margin:0 auto 0 auto; width:400px; background-color:#ffffff;}
