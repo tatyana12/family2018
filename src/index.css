@@ -81,6 +81,3 @@ body:target { background-color:blue; }
 }
 
 
-.left-background {background-color:#ff0000; width:50%; height:100%; position:absolute; top:0; left: 0;}
-.right-background {background-color:#00ff00; width:50%; height:100%;position:absolute; top:0; left: 50%;}
-.content {position:relative; margin:0 auto 0 auto; width:400px; background-color:#ffffff;}
