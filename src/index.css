@@ -64,9 +64,9 @@ body {
     height: 200px;
 }
 ##myBody
-body:target { background-color:black; }
+ { background-color:black; }
 #myBody1
-body:target { background-color:blue; }
+ { background-color:blue; }
 
 
 .shadowbox {
