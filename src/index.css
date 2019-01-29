@@ -63,10 +63,11 @@ body {
 .content {
     height: 200px;
 }
-
+##myBody
 body:target { background-color:black; }
-//body:target { background-color:blue; }
-//body:target { background-color:white; }
+#myBody1
+body:target { background-color:blue; }
+
 
 .shadowbox {
   
