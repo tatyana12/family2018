@@ -40,14 +40,14 @@ const AppRouter = () => (
 
          </Link></center>
          
-      <center><div class="shadowbox"><body id="myBody">
-        <a href="#myBody">Make it Blue</a></body></div></center>
+      <center><div class="shadowbox"><body id="Mybody">
+        <a href="#Mybody">Make it Blue</a></body></div></center>
   
-      <center><div class="shadowbox"><body id="myBody1">
-        <a href="#myBody1">Or Green</a></body></div></center>
+      <center><div class="shadowbox"><body id="Mybody1">
+        <a href="#Mybody1">Or Green</a></body></div></center>
      
-      <center><div class="shadowbox"><body id="myBody3">
-        <a href="#myBod31">Or White</a></body></div></center>
+      <center><div class="shadowbox"><body id="Mybody2">
+        <a href="#Mybody2">Or White</a></body></div></center>
 
       
 
