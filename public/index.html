@@ -22,21 +22,15 @@
     <title>React App</title>
 
     <script>
-    var colors = ["red", "blue", "green"];
-    var colorIndex = 0;
-    function changeColor() {
-        var col = document.getElementById("body");
-        if( colorIndex >= colors.length ) {
-            colorIndex = 0;
-        }
-        col.style.backgroundColor = colors[colorIndex];
-        colorIndex++;
-    }
+    function myFunction()
+{   
+    var colors = ["green", "black","yellow","Blue","Orange"],
+    selectedColor = colors[Math.floor(Math.random()*colors.length)]
+    $("body").css("background-color", selectedColor);
 </script>
 </head>
   <body>
-   <body id='body'>
-       <button onclick="changeColor();"></button>
+   <button type="button" onclick="myFunction()">Change Color</button>
 
     <noscript>
       You need to enable JavaScript to run this app.
