@@ -63,10 +63,9 @@ body {
 .content {
     height: 200px;
 }
-##myBody
+
 body:target { background-color:black; }
  
-#myBody1
 body:target { background-color:blue; }
  
 
