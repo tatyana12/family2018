@@ -44,7 +44,7 @@ const AppRouter = () => (
         <a href="#myBody">Make it dark</a></body></div></center>
   
       <center><div class="shadowbox"><body1 id="myBody1">
-        <a href="#myBody1">Or Blue</a></body1></div></center>
+        <a href="#myBody1">Or Green</a></body1></div></center>
      
       
 
