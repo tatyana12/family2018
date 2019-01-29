@@ -20,6 +20,22 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+
+    <script>
+    var colors = ["red", "blue", "green"];
+    var colorIndex = 0;
+    function changeColor() {
+        var col = document.getElementById("body");
+        if( colorIndex >= colors.length ) {
+            colorIndex = 0;
+        }
+        col.style.backgroundColor = colors[colorIndex];
+        colorIndex++;
+    }
+</script>
+
+
+
   </head>
   <body>
     <noscript>
@@ -38,14 +54,8 @@
     -->
   
 
-       <body id="Mybody">
-          <a href="#Mybody"></a>        
-
-       <body id="Mybody1">
-         <a href="#Mybody1"></a>
-
-       <body id="Mybody2">
-         <a href="#Mybody2"></a>
+       <body id='body'>
+       <button onclick="changeColor();">Change color</button>
 
        
 

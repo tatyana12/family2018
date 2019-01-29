@@ -64,14 +64,6 @@ body {
     height: 200px;
 }
 
-#Mybody1
-body:target { background-color:black; }
-
-#Mybody2
-body:target { background-color:blue; }
- 
-#Mybody3
-body:target { background-color:white; }
 
 
 
