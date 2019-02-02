@@ -77,10 +77,10 @@ button {
     ul li a, ul li a img {
         display: block;
     }
-    ul li a:hover {
+    ul li a:hover img {
         border: 5px solid #333333;
-        overflow: hidden;        
+        overflow: hidden;
+        margin: -5px;        
     }
-    ul li a:hover img{
-        margin: -5px;
-    }
+    
+       
