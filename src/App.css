@@ -50,7 +50,7 @@ img:hover {
     height: 120%;
     width: 120%;
     top:auto;
-    border: 5px solid red;
+    border: 10px solid #333333;;
     overflow: hidden;
     margin: -5px;    
 
