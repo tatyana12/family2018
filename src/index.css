@@ -41,7 +41,7 @@ body {
 /* Create two unequal columns that floats next to each other */
 .column {
     float: left;
-    padding: 20px;
+    padding: 120px;
 
 }
 
