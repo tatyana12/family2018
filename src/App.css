@@ -50,7 +50,9 @@ img:hover {
     height: 120%;
     width: 120%;
     top:auto;
-    
+    border: 5px solid #333333;
+    overflow: hidden;
+    margin: -5px;    
 
 }
 
@@ -77,10 +79,6 @@ button {
     ul li a, ul li a img {
         display: block;
     }
-    ul li a:hover img {
-        border: 5px solid #333333;
-        overflow: hidden;
-        margin: -5px;        
-    }
+    
     
        
