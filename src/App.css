@@ -52,10 +52,10 @@ img:hover {
     height: 120%;
     width: 120%;
     top:auto;
-    border: 10px solid #333333;;
+    border: 8px solid #333333;;
     overflow: hidden;
     margin: -5px;    
-    background-color: red;    
+        
 }
 
 button {
