@@ -34,11 +34,7 @@ body {
   color: yellow;
 }
 
-.body:hover {
 
-  background-color:yellow;
-  color:white;
-}
 
 .button:focus {
   outline: none;
